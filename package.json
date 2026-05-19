@@ -1,0 +1,12 @@
+{
+  "name": "test-node-repo",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "James Nuanez <james@jamesnuanez.com> (https://www.jamesnuanez.com/)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
